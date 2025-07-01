@@ -26,8 +26,10 @@ This toolkit is intended for **authorized security testing only**. Only use thes
 - ⚡ Real-time logging and results
 - 🎯 Professional cybersecurity aesthetic
 - 📊 Interactive data tables and charts
+  
 
 ## 🚀 Quick Start
+🌐 Step into the Cyber Zone: [↳ X‑Ploit Live Console](https://x-ploit.vercel.app/)
 
 ### Prerequisites
 - Node.js 18+ 
