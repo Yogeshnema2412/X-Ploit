@@ -1,30 +1,41 @@
-# X-Ploit Web UI Design
+# X-Ploit 
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A modern, sleek cybersecurity toolkit with a dark theme UI designed for penetration testing and security analysis.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/devil975247-2765s-projects/v0-x-ploit-web-ui-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/wY2kq0Ueaum)
+![X-Ploit Dashboard](https://img.shields.io/badge/Status-Active-green)
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 
-## Overview
+## ⚠️ Legal Disclaimer
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This toolkit is intended for **authorized security testing only**. Only use these tools on systems you own or have explicit written permission to test. Unauthorized access to computer systems is illegal and may result in criminal charges.
 
-## Deployment
+## 🛠️ Features
 
-Your project is live at:
+### Security Tools
+- **Port Scanner** - Discover open ports and running services
+- **Directory Brute Forcer** - Find hidden directories and files
+- **Login Bruteforce Tool** - Test credential combinations
+- **SQL Injection Scanner** - Detect SQL injection vulnerabilities  
+- **OSINT Lookup** - Gather open source intelligence
 
-**[https://vercel.com/devil975247-2765s-projects/v0-x-ploit-web-ui-design](https://vercel.com/devil975247-2765s-projects/v0-x-ploit-web-ui-design)**
+### UI Features
+- 🌙 Dark theme with red accents
+- 📱 Fully responsive design
+- ⚡ Real-time logging and results
+- 🎯 Professional cybersecurity aesthetic
+- 📊 Interactive data tables and charts
 
-## Build your app
+## 🚀 Quick Start
 
-Continue building your app on:
+### Prerequisites
+- Node.js 18+ 
+- npm or yarn
 
-**[https://v0.dev/chat/projects/wY2kq0Ueaum](https://v0.dev/chat/projects/wY2kq0Ueaum)**
+### Installation
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Yogeshnema2412/X-Ploit
+   cd X-Ploit
